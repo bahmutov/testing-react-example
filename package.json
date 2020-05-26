@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/bahmutov/testing-react-example#readme",
   "devDependencies": {
+    "cypress": "4.6.0",
+    "cypress-react-unit-test": "4.2.3",
     "react-scripts": "3.4.1"
+  },
+  "dependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
   }
 }
