@@ -1,0 +1,23 @@
+{
+  "name": "testing-react-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahmutov/testing-react-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahmutov/testing-react-example/issues"
+  },
+  "homepage": "https://github.com/bahmutov/testing-react-example#readme",
+  "devDependencies": {
+    "react-scripts": "3.4.1"
+  }
+}
